@@ -1,0 +1,3 @@
+- Hi, I’m @luizne and it's my first time learning to code
+- I'm learning coding and, if you can teach me something interesting i thank.
+- I'm starting with Python and Java, but i don't have background of both so, don't judge for my obvius errors. 
